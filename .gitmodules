@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GenomicTools.fileHandler"]
+	path = GenomicTools.fileHandler
+	url = https://github.com/fischuu/genomictools.filehandler
+	shallow = true
+	registered = true
+[submodule "hoardeR"]
+	path = hoardeR
+	url = https://github.com/fischuu/hoarder
+	shallow = true
+	registered = true
+[submodule "REPPlab"]
+	path = REPPlab
+	url = https://github.com/fischuu/repplab
+	shallow = true
+	registered = true

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "GenomicTools.fileHandler",
+    "oncran": true
+  },
+  {
+    "package": "hoardeR",
+    "oncran": true
+  },
+  {
+    "package": "REPPlab",
+    "oncran": true
+  }
+]
