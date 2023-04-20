@@ -8,6 +8,11 @@
 	url = https://github.com/fischuu/genomictools.filehandler
 	shallow = true
 	registered = true
+[submodule "gMWT"]
+	path = gMWT
+	url = https://github.com/fischuu/gmwt
+	shallow = true
+	registered = true
 [submodule "hoardeR"]
 	path = hoardeR
 	url = https://github.com/fischuu/hoarder
