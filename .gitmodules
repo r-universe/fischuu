@@ -5,12 +5,12 @@
 [submodule "GenomicTools.fileHandler"]
 	path = GenomicTools.fileHandler
 	url = https://github.com/fischuu/genomictools.filehandler
+[submodule "REPPlab"]
+	path = REPPlab
+	url = https://github.com/fischuu/repplab
 [submodule "gMWT"]
 	path = gMWT
 	url = https://github.com/fischuu/gmwt
 [submodule "hoardeR"]
 	path = hoardeR
 	url = https://github.com/fischuu/hoarder
-[submodule "REPPlab"]
-	path = REPPlab
-	url = https://github.com/fischuu/repplab
