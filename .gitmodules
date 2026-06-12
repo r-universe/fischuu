@@ -14,6 +14,3 @@
 [submodule "gMWT"]
 	path = gMWT
 	url = https://github.com/fischuu/gmwt
-[submodule "hoardeR"]
-	path = hoardeR
-	url = https://github.com/fischuu/hoarder
