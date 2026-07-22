@@ -8,6 +8,9 @@
 [submodule "GenomicTools.fileHandler"]
 	path = GenomicTools.fileHandler
 	url = https://github.com/fischuu/genomictools.filehandler
+[submodule "OjaNP"]
+	path = OjaNP
+	url = https://github.com/fischuu/ojanp
 [submodule "REPPlab"]
 	path = REPPlab
 	url = https://github.com/fischuu/repplab
